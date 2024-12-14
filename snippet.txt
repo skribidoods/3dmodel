@@ -1,0 +1,1 @@
+<model-viewer src="wire.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls tone-mapping="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-276deg 90.7deg 16.34m" field-of-view="17.6deg"> </model-viewer>
